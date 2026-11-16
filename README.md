@@ -2,7 +2,7 @@
 
 Sistema de monitoreo y control basado en Arduino para un reactor batch de biodiésel. Desarrollado junto con alumnos de 6.º semestre de Ingeniería Química del TESJo.
 
-![Montaje del prototipo](imagenes/montaje.jpg)
+<!--![Montaje del prototipo](imagenes/montaje.jpg)-->
 
 ## ¿Qué hace?
 - Mide la temperatura del reactor y la muestra en una pantalla LCD.
@@ -48,7 +48,7 @@ Sistema de monitoreo y control basado en Arduino para un reactor batch de biodi�
 Diseño del circuito, programación del firmware y script de monitoreo. Trabajo realizado junto con Pedro López.
 
 ## Autores
-- Saulo González López, [@Saulo-lopezSu](https://github.com/Saulo-lopezSu)
+- Saulo González, [@Saulo-lopezSu](https://github.com/Saulo-lopezSu)
 - Pedro López
 
 ## Licencia
