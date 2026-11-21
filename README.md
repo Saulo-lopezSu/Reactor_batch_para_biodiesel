@@ -7,7 +7,7 @@ Sistema de monitoreo y control basado en Arduino para un reactor batch de biodi�
 ## ¿Qué hace?
 - Mide la temperatura del reactor y la muestra en una pantalla LCD.
 - Controla la agitación mediante un driver de motor.
-- Emite una alerta sonora con un buzzer [completar: ¿a qué temperatura o condición?].
+- Emite una alerta sonora con un buzzer.
 - Envía los datos por puerto serial a Python, que grafica la temperatura en tiempo real.
 
 ## Hardware
